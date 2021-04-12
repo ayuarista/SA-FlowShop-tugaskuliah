@@ -1,2 +1,5 @@
 # SA-FlowShop-tugaskuliah
-College Project Simulation - Simulated Annealing for Flow Shop Scheduling 
+College Project Simulation - Simulated Annealing for Flow Shop Scheduling
+
+ 
+(Detail on progress) 
